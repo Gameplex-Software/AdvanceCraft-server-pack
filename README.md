@@ -12,7 +12,7 @@ Gameplex server packs are designed to be used with this instruction set in a int
 ## Step 1 - Downloading the pack
 
 The easiest way to download the server pack, visit our github repository for the project and go to the releases page
-[Go to CWS GitHub releases page](https://github.com/Gameplex-Software/Cruel-World-Survival-Server-Pack/releases)
+[Go to AdvanceCraft GitHub releases page](https://github.com/Gameplex-Software/AdvanceCraft-server-pack/releases)
 
 ## Step 2 - Setting up the pack
 
