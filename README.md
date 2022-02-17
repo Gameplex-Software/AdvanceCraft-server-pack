@@ -14,8 +14,6 @@ Official server pack for the AdvanceCraft modpack
 <p>Several crafting&nbsp;recipes have been changed in this pack, make sure to use JEI to look up the&nbsp;recipes in the pack.</p>
 
 
-## Create your very own AdvanceCraft Server!
-
 # Running a Gameplex software server pack
 
 Gameplex server packs are designed to be used with this instruction set in a intuitive, step by step process that will have your server set up in under half an hour.
